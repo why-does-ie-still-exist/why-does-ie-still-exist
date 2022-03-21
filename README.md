@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @why-does-ie-still-exist
 - 👀 I’m interested in Compilers, Computer Engineering, and Machine Learning
-- 🌱 I’m currently learning Verilog
+- 🌱 I’m currently reading Deep Learning by Goodfellow et al.
 - 📫 How to reach me: Discord w/  __highkey_michael # 1934__
 
 <!---
