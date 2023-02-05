@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @why-does-ie-still-exist, Math-CS 🔱USCD🔱 '24
 - 👀 I’m interested in Parsers, Computer Engineering, Machine Learning, and Robotics
-- 🌱 I’m currently reading Spinning Up in Deep RL
+- 🌱 I’m currently reading Robot Motion Planning
 - 📫 How to reach me: Discord w/  __highkey_michael # 1934__
 
 <!---
